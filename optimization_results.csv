@@ -1,0 +1,5 @@
+Metric,Baseline Model,Tuned Model,Improvement
+MAE,0.96,2.16,-125.7%
+MSE,0.95,4.71,-398.1%
+RMSE,0.97,2.17,-123.2%
+R² Score,0.0000,0.0000,+0.0000 (absolute)

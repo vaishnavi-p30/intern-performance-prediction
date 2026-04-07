@@ -1,0 +1,16 @@
+SPRINT 1 - DATA CLEANING REPORT
+==================================================
+
+Initial Dataset Shape: (10, 5)
+Final Dataset Shape: (10, 5)
+Missing Values Handled: 0
+Duplicates Removed: 0
+Outliers Capped: 3
+
+Cleaning Steps Applied:
+1. Missing value check (none found)
+2. Duplicate removal (none found)
+3. Data type validation
+4. Outlier detection using IQR method
+5. Outlier capping (Winsorization)
+6. Value range validation
